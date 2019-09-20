@@ -4,4 +4,4 @@
 #
 ################################################################################
 
-include $(sort $(wildcard package/openhd/*/*.mk))
+include $(sort $(wildcard $(BR2_EXTERNAL_openhd_PATH)/package/openhd/*/*.mk))
