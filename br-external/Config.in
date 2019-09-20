@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_openhd_PATH/package/openhd/Config.in"
+source "$BR2_EXTERNAL_openhd_PATH/package/wiringnp/Config.in"

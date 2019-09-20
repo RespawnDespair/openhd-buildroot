@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_openhd_PATH/package/openhd/openhd-core/Config.in"
+source "$BR2_EXTERNAL_openhd_PATH/package/openhd/openhd-rtl88xx/Config.in"
