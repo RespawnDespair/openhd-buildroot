@@ -2,12 +2,11 @@ diff --git a/arch/arm/boot/dts/Makefile b/arch/arm/boot/dts/Makefile
 index 093d09f9b..b5cd07dbd 100644
 --- a/arch/arm/boot/dts/Makefile
 +++ b/arch/arm/boot/dts/Makefile
-@@ -1099,6 +1099,8 @@ sun8i-h3-mapleboard-mp130.dtb \
+@@ -1099,6 +1099,7 @@ sun8i-h3-mapleboard-mp130.dtb \
 	sun8i-h3-nanopi-m1.dtb	\
 	sun8i-h3-nanopi-m1-plus.dtb \
 	sun8i-h3-nanopi-neo.dtb \
 	sun8i-h3-nanopi-neo-air.dtb \
-+	sun8i-h3-nanopi-r1.dtb \
 +	sun8i-h3-nanopi-duo2.dtb \
 	sun8i-h3-orangepi-2.dtb \
 	sun8i-h3-orangepi-lite.dtb \
